@@ -12,7 +12,6 @@ public class Student implements StudentInterface {
         this.password = password;
     }
 
-
     @Override
     public String getEmail() {
         return email;
